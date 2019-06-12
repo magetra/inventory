@@ -1,0 +1,36 @@
+
+ <table>
+            <tr>
+                <td>id_barang</td>
+            <td>kode_barang</td>
+            <td>nama_barang</td>
+            <td>stok</td>
+            <td>harga</td>
+            <td>harga_suplayer</td>
+            <td>laba</td>
+            <td>nama_suplayer</td>
+            </tr>                <tr>
+            <td>1</td>
+            <td>BRG0001</td>
+            <td>Buku</td>
+            <td>38</td>
+            <td>3000</td>
+            <td>2500</td>
+            
+            <td>500</td>
+            <td>Aisyah</td>
+            
+        </tr>
+                                <tr>
+            <td>2</td>
+            <td>BRG0002</td>
+            <td>Pena</td>
+            <td>93</td>
+            <td>5000</td>
+            <td>4500</td>
+            
+            <td>500</td>
+            <td>Yusuf</td>
+            
+        </tr>
+                        </table>

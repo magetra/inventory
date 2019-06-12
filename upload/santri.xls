@@ -1,0 +1,32 @@
+
+ <table >
+            <tr>
+        <td>no_induk</td>
+        <td>nama</td>
+        <td>alamat</td>
+        <td>tempat_lahir</td>
+        <td>tanggal_lahir</td>
+        <td>no_telp</td>
+        <td>kelas</td>
+        <td>unit_pendidikan</td>
+            </tr>                <tr>
+            <td>SN00001</td>
+            <td>Boy Kurniawan</td>
+            <td>gsg</td>
+            <td>sdf</td>
+            <td>2018-12-31</td>
+            <td>6543452</td>
+            <td>hgkh</td>
+            <td>khkjh</td>
+        </tr>
+                                <tr>
+            <td>SN00002</td>
+            <td>Joni</td>
+            <td>hdh</td>
+            <td>dkhja</td>
+            <td>2017-12-24</td>
+            <td>987636476364</td>
+            <td>asdh</td>
+            <td>aksjdh</td>
+        </tr>
+                        </table>
